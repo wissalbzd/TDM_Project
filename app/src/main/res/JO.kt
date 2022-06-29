@@ -1,0 +1,1 @@
+class JO : ArrayList<JOItem>()
